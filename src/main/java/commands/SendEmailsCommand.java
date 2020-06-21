@@ -55,7 +55,7 @@ public class SendEmailsCommand implements ICommand {
                     ResultSet rs = stmt.executeQuery("SELECT * FROM users OFFSET " + offset + " FETCH NEXT " + itemsPerPage + " ROWS ONLY ");
                     while (rs.next()) {
                         Thread.sleep(500);
-                        System.out.print(sProgressFinish.incrementAndGet() + " emails sent\r");
+                        System.out.print("\r" + sProgressFinish.incrementAndGet() + " emails sent");
                     }
                 };
                 DatabaseConnectionHandler.sharedInstance.executeBlock(block);

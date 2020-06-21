@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3638577-e6c9-4485-abd6-1ba0c108d731" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmailSender.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmailSender.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmailSender.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmailSender.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EmailSender.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libs/h2-1.4.200.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EmailSender/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cli/Console.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commands/CommandFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commands/CommandInvoker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commands/CreateDatabaseCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commands/ExitCmd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commands/ICommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commands/InsertSeedCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commands/PrintListCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/commands/SendEmailsCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/database/DatabaseBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/database/DatabaseConnectionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EmailSender/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmailSender.iws" beforeDir="false" afterPath="$PROJECT_DIR$/EmailSender.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/commands/SendEmailsCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/commands/SendEmailsCommand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +197,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592762848304</updated>
-      <workItem from="1592762849430" duration="1903000" />
+      <workItem from="1592762849430" duration="2625000" />
     </task>
     <servers />
   </component>
@@ -234,25 +209,25 @@
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1592764619614">
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1592764780440">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1592764619614" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1592764780440" />
     <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1592764125747" />
-    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1592764619613">
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1592764780439">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1592764619613" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1592764780439" />
     <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1592764125746" />
-    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1592764619613">
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1592764780439">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1592764619613" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1592764780439" />
     <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1592764125745" />
-    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1592764619613">
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1592764780439">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1592764619613" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1592764780439" />
     <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1592764125746" />
     <state x="208" y="23" width="1024" height="814" key="SettingsEditor" timestamp="1592764121777">
       <screen x="0" y="23" width="1440" height="814" />
