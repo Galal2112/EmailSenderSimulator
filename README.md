@@ -13,4 +13,10 @@ The number of threads is calculated based on the number of processors in the run
 int totalNumberOfTasks = Runtime.getRuntime().availableProcessors() * 10;
 ```
 
+###To run the App from termainl:
+* cd {Your project directoty}
+* ./gradlew clean
+* ./gradlew build
+* ./gradlew run --console=plain
+
 ![Running from terminal](RunApp.gif)
