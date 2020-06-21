@@ -15,7 +15,7 @@ public class InsertSeedCommand implements ICommand {
                         System.out.print("\rInserting " + i + " of 1000_000");
                         stmt.executeUpdate( "INSERT INTO users ( name, email ) VALUES ( 'User" + i +"', 'user" + i+ "@test.de' )" );
                     }
-                    System.out.println("Data inserted");
+                    System.out.println("\nData inserted");
                 };
                 DatabaseConnectionHandler.sharedInstance.executeBlock(block);
             }
