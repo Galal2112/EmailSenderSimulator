@@ -12,3 +12,5 @@ The number of threads is calculated based on the number of processors in the run
 ```java
 int totalNumberOfTasks = Runtime.getRuntime().availableProcessors() * 10;
 ```
+
+![Running from terminal](RunApp.gif)
