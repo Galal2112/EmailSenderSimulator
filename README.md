@@ -12,7 +12,6 @@ The number of threads is calculated based on the number of processors in the run
 ```java
 int totalNumberOfTasks = Runtime.getRuntime().availableProcessors() * 10;
 ```
-
 ###To run the App from termainl:
 * cd {Your project directoty}
 * ./gradlew clean
@@ -20,3 +19,16 @@ int totalNumberOfTasks = Runtime.getRuntime().availableProcessors() * 10;
 * ./gradlew run --console=plain
 
 ![Running from terminal](RunApp.gif)
+
+
+###### Commands
+1- Create the database
+![Command 1](commands/command1.png)
+2- Insert 1M test user
+![Command 2](commands/command2.png)
+3- print subset of the user by inserting the limit
+![Command 3](commands/command3.png)
+4- Simulate sending emails
+![Command 4](commands/command4.png)
+
+
